@@ -3,8 +3,7 @@
 Проект выполнил: Вахрушева Елена
 
 ## Используемые технологии: 
-- HTML
-- CSS
-- Normalize.css
-- Flex
+1. HTML & CSS
+2. Normalize.css
+3. Flex
 
