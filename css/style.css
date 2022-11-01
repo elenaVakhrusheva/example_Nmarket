@@ -44,6 +44,9 @@ body {
    position: relative;
 }
 
+.flat-price__container p {
+   margin:1em 0;
+}
 
 
 /*  описание квартиры  */
